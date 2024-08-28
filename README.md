@@ -24,5 +24,5 @@ My fields of interest include open-source projects and broad field of Artificial
 | [Task-06]()   | OpenDocs | Not attempted |
 | [Task-07]()   | Pirate's Dilemma | Not attempted |
 | [Task-08]()   | Blog Burst | Not attempted |
-| Task-09()     | HERO-DEX! | Not attempted|
+| [Task-09]()     | HERO-DEX! | Not attempted|
 | [Task-10]()   | Operation Pixel Merge |Not attempted |
