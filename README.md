@@ -22,7 +22,7 @@ My fields of interest include open-source projects and broad field of Artificial
 | [Task-04](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-04)   | Gopal and his PagePal  | Attempted but not completed |
 | [Task-05]()   | TerminalTrolly | Not attempted |
 | [Task-06](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-06)   | OpenDocs | Completed successfully |
-| [Task-07](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-07)   | Pirate's Dilemma | Attempted but not completed |
+| [Task-07](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-07)   | Pirate's Dilemma | Not attempted |
 | [Task-08](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-08)   | Blog Burst | Completed successfully |
 | [Task-09]()     | HERO-DEX! | Not attempted |
 | [Task-10]()   | Operation Pixel Merge | Not attempted |
