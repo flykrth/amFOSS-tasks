@@ -25,4 +25,4 @@ My fields of interest include open-source projects and broad field of Artificial
 | [Task-07](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-07)   | Pirate's Dilemma | Attempted but not completed |
 | [Task-08](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-08)   | Blog Burst | Completed successfully |
 | [Task-09]()     | HERO-DEX! | Not attempted |
-| [Task-10](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-10)   | Operation Pixel Merge | Attempted but not completed |
+| [Task-10]()   | Operation Pixel Merge | Not attempted |
