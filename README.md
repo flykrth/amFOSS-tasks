@@ -15,14 +15,14 @@ My fields of interest include open-source projects and broad field of Artificial
 ## Task statistics
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task-00]()   | Install Linux | Not attempted |
-| [Task-01]()   | Type Maestro | Not attempted |
-| [Task-02]()   | Terminal Chaos | Not attempted |
-| [Task-03]()   | Hello, World! | Not attempted |
-| [Task-04]()   | Gopal and his PagePal  | Not attempted |
+| [Task-00](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-00)   | Install Linux | Completed successfully |
+| [Task-01](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-01)   | Type Maestro | Completed successfully |
+| [Task-02](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-02)   | Terminal Chaos | Completed successfully |
+| [Task-03](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-03)   | Hello, World! | Completed successfully |
+| [Task-04](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-04)   | Gopal and his PagePal  | Attempted but not completed |
 | [Task-05]()   | TerminalTrolly | Not attempted |
-| [Task-06]()   | OpenDocs | Not attempted |
-| [Task-07]()   | Pirate's Dilemma | Not attempted |
-| [Task-08]()   | Blog Burst | Not attempted |
-| [Task-09]()     | HERO-DEX! | Not attempted|
-| [Task-10]()   | Operation Pixel Merge |Not attempted |
+| [Task-06](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-06)   | OpenDocs | Completed successfully |
+| [Task-07](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-07)   | Pirate's Dilemma | Attempted but not completed |
+| [Task-08](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-08)   | Blog Burst | Completed successfully |
+| [Task-09]()     | HERO-DEX! | Not attempted |
+| [Task-10](https://github.com/flykrth/amFOSS-tasks/tree/main/Task-10)   | Operation Pixel Merge | Attempted but not completed |
