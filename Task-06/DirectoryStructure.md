@@ -1,6 +1,6 @@
 # Directory structure
 ```
-pagepal/
+PagePal_bot/
 │
 ├── PagePal_bot.py          # Main bot script
 ├── README.md               # Quick setup and project overview
