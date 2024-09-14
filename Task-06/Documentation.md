@@ -31,10 +31,10 @@ Input: Genre (string)
 Output: List of books with details (title, author, description, etc.)
 Usage: Called when the user types in a genre. Fetches up to 5 books from the Google Books API and formats the result for display in the Telegram chat.
 
-```start(update, context)```:
+2. ```start(update, context)```:
 Functionality: Sends a welcome message to the user when the bot is started.
 Usage: Automatically triggered when a user starts the bot using the /start command.
 
-```recommend_books(update, context)```:
+3. ```recommend_books(update, context)```:
 Functionality: Fetches and displays book recommendations based on the user’s input.
 Usage: Triggered when the user sends any text message (which is treated as a genre) to the bot.
